@@ -1,0 +1,50 @@
+{
+  
+    "editor.fontFamily": "Poppins-Regular",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 24,
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "editor.renderLineHighlight": "none",
+    "editor.roundedSelection": false,
+    "workbench.editor.tabSizing": "fit",
+    "window.title": "${appName}",
+    "explorer.openEditors.visible": 0,
+    "terminal.integrated.fontSize": 14,
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "material-icon-theme.folders.color": "#6688cc",
+      "workbench.colorCustomizations": {
+        "activityBar.background": "#1E1E1E",        // Background color of the Activity Bar
+        "activityBar.foreground": "#FF07FF",        // Default icon color
+        "activityBar.border": "#FF07FF",            // Border color of the Activity Bar
+        "activityBar.activeBorder": "#FF07FF",      // Active item border color
+        "activityBarBadge.background": "#FF07FF",   // Badge background color
+        "activityBarBadge.foreground": "#FFFFFF"    // Badge text color
+      },
+    "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "foreground": "#33BB33"  // Replace with your desired color code
+        }
+      }
+    ]
+    
+  },
+
+    "background.fullscreen": {
+      // Local images can be dragged into the browser to quickly get the file protocol address from the address bar
+      // "images": ["https://c4.wallpaperflare.com/wallpaper/175/339/646/re-zero-rem-re-zero-kara-hajimeru-isekai-seikatsu-wallpaper-preview.jpg"],
+      "images": ["https://r4.wallpaperflare.com/wallpaper/638/412/944/kimi-no-nawa-miyamizu-mitsuha-tachibana-taki-scenic-wallpaper-8bbde94565e847022d0e66802b50e2b9.jpg"],
+      "opacity": 0.1,
+      "size": "cover",
+      "position": "center",
+      "interval": 0,
+      "random": false
+    },
+  "editor.guides.indentation": false
+  
+}
